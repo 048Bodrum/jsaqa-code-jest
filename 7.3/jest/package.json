@@ -10,12 +10,12 @@
   "keywords": [
     "jest",
     "test",
-    "jsaqa"
+    "jsaqa" 
   ],
   "coverageThreshold": {
-        "branches": 100,
-        "functions": 100,
-        "lines": 100
+     "branches": 100,
+     "functions": 100,
+     "lines": 100
   },
   "author": "Liubov Bilen",
   "license": "ISC",
@@ -23,10 +23,9 @@
     "jest": "^27.3.1"
   },
   "collectCoverageFrom": [
-    "**/*.{js,jsx}",
-    "!**/node_modules/**",
-    "!**/coverage/**"
+     "**/*.{js,jsx}",
+     "!**/node_modules/**",
+     "!**/coverage/**"
   ]
-
 }
   
